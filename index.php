@@ -357,7 +357,7 @@ ul li { }
       <h2 class="story-heading text-inner normal"><strong>After a foot of rain upstream, a wall of water rushes down the Blanco River into Wimberley, San Marcos and beyond.</strong></h2>
   </div>
 
-  <div class="story-metadata right text">BY BEN WEAR / AMERICAN-STATESMAN STAFF<br />May 24, 2015</div>
+  <div class="story-metadata right text">BY BEN WEAR / AMERICAN-STATESMAN<br />May 24, 2015</div>
 
   <div class="background-overlay">
     

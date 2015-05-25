@@ -437,7 +437,7 @@ ul li { }
 <iframe allowfullscreen frameborder="0" height="315" id="scrollmation-two-column-4001-block-2" src="//www.youtube.com/embed/Y4wMt1ikrRw?enablejsapi=1&amp;rel=0" width="560"></iframe>
 </div>
 </div>
-</div><div class="block text-block"><p>Those winds, and the fallen trees, knocked out power to 30,000 Austin Energy customers and about 6,000 Pedernales Electric Co-operative customers. All but about 2,800 Austin Engergy customers had electricity again by mid-afternoon Sunday, Austin Energy spokesman Robert Cullick said. About 3,300 PEC customers were still without power early Sunday evening.  </p>
+</div><div class="block text-block"><p>Those winds, and the fallen trees, knocked out power to 30,000 Austin Energy customers and about 6,000 Pedernales Electric Co-operative customers. All but about 2,800 Austin Energy customers had electricity again by mid-afternoon Sunday, Austin Energy spokesman Robert Cullick said. About 3,300 PEC customers were still without power early Sunday evening.  </p>
 <p>Officials had to temporarily close more than 200 low-water crossings in the Austin area, and emergency workers had to rescue dozens of people from rushing waters.  </p><aside class="scrollmation-inline " data-copy-element data-media-ratio="1.4" data-resize-element=".scrollmation-two-column .secondary-column" data-scrollmation-slide>
 <img alt="Several cabins along the Blanco in Wimberley near the RM 12 bridge were destroyed.JAY JANNER / AMERICAN-STATESMAN" class="inline-image edit-image-button" data-min-width-1401="./media/jwj-flood-cabin-mr_f81pco6.jpg" src="./media/jwj-flood-cabin-lr_vsrigy0.jpg">
 <p class="caption">Several cabins along the Blanco in Wimberley near the RM 12 bridge were destroyed.<br/><br/>JAY JANNER / AMERICAN-STATESMAN</p>
@@ -492,7 +492,7 @@ ul li { }
   </div>
 
   
-    <p class="caption text-over-media-caption main-text-is-center">Ruth Hansen enters through the front door of her San Marcos house where the water line is marked on the wall by debris. She and her family spent part of the night in their attic to get away from fast rising flood waters in San Marcos. Her husband helped her mother up into the attic and and even got their dog up there to wait out the flood. NELL CARROLL / AMERICAN-STATESMAN</p>
+    <p class="caption text-over-media-caption main-text-is-center">Ruth Hansen enters through the front door of her San Marcos house where the water line is marked on the wall by debris. She and her family spent part of the night in their attic to get away from fast rising floodwaters in San Marcos. Her husband helped her mother up into the attic and even got their dog up there to wait out the flood. NELL CARROLL / AMERICAN-STATESMAN</p>
   
 
   <img alt="Ruth Hansen enters through the front door of her San Marcos house where the water line is marked on the wall by debris. She and her family spent part of the night in their attic to get away from fast rising flood waters in San Marcos. Her husband helped her mother up into the attic and and even got their dog up there to wait out the flood. NELL CARROLL / AMERICAN-STATESMAN" data-landscape-src="./media/ncs-ruth-front-hr.jpg" data-portrait-src="" class="section-background-image text-over-media-background-image retina-only" data-autoscale="cover">
@@ -541,8 +541,8 @@ ul li { }
 </div>
 </div><div class="block text-block"><p>Among the piled up vehicles was a white Chevy Silverado, bought brand-new in March by Mark Blackburn. Blackburn, who lives off Bogie Drive, also lost his 65-inch TV and laptops.  </p>
 <p>“All my belongings were under 7 feet of water,” he said. He and his Australian Shepherd mix, Kirk, had made their way in the dark, rushing water, to a neighbor who has a two-story house.  </p><aside class="scrollmation-inline " data-copy-element data-media-ratio="1.4" data-resize-element=".scrollmation-two-column .secondary-column" data-scrollmation-slide>
-<img alt="Kino Rodriguez, 8, and Israel Rodriguez, 7, sit outside their families flood damaged San Marcos home and discuss their experiences with the night of flooding. ERIKA RICH / FOR AMERICAN-STATESMAN" class="inline-image edit-image-button" data-min-width-1401="./media/err-san-marcos-flooding-_6-mr_i58wb57.jpg" src="./media/err-san-marcos-flooding-_6-lr_zgtndwp.jpg">
-<p class="caption">Kino Rodriguez, 8, and Israel Rodriguez, 7, sit outside their families flood damaged San Marcos home and discuss their experiences with the night of flooding. <br/><br/>ERIKA RICH / FOR AMERICAN-STATESMAN</p>
+<img alt="Kino Rodriguez, 8, and Israel Rodriguez, 7, sit outside their family's flood-damaged San Marcos home and discuss their experiences with the night of flooding. ERIKA RICH / FOR AMERICAN-STATESMAN" class="inline-image edit-image-button" data-min-width-1401="./media/err-san-marcos-flooding-_6-mr_i58wb57.jpg" src="./media/err-san-marcos-flooding-_6-lr_zgtndwp.jpg">
+<p class="caption">Kino Rodriguez, 8, and Israel Rodriguez, 7, sit outside their family's flood-damaged San Marcos home and discuss their experiences with the night of flooding. <br/><br/>ERIKA RICH / FOR AMERICAN-STATESMAN</p>
 </img></aside>
 
 <p>“I grabbed the dog, the phone and a wallet,” he said. Blackburn seemed resigned to the catastrophe: “It’s OK, as long as everybody’s safe.”  </p>
@@ -594,10 +594,10 @@ ul li { }
   </div>
 
   
-    <p class="caption text-over-media-caption main-text-is-center">A youth looks into the floodwaters of the Blanco River that overnight ripped a home from its foundation behind him in Wimberley. RODOLFO GONZALEZ  / AMERICAN-STATESMAN)</p>
+    <p class="caption text-over-media-caption main-text-is-center">A youth looks into the floodwaters of the Blanco River that overnight ripped a home from its foundation behind him in Wimberley. RODOLFO GONZALEZ  / AMERICAN-STATESMAN</p>
   
 
-  <img alt="A youth looks into the floodwaters of the Blanco River that overnight ripped a home from its foundation behind him in Wimberley. RODOLFO GONZALEZ  / AMERICAN-STATESMAN)" data-landscape-src="./media/rgz-blanco-river-flood-03a-hr.jpg" data-portrait-src="" class="section-background-image text-over-media-background-image retina-only" data-autoscale="cover">
+  <img alt="A youth looks into the floodwaters of the Blanco River that overnight ripped a home from its foundation behind him in Wimberley. RODOLFO GONZALEZ  / AMERICAN-STATESMAN" data-landscape-src="./media/rgz-blanco-river-flood-03a-hr.jpg" data-portrait-src="" class="section-background-image text-over-media-background-image retina-only" data-autoscale="cover">
 </div>
 
 <script>
@@ -692,10 +692,10 @@ ul li { }
   </div>
 
   
-    <p class="caption text-over-media-caption main-text-is-center">Carlos and Candy Cortez, comfort each other in the Redbird Aviation Terminal in San Marcos after they, their three children and one of their dogs were rescued from the roof of their San Marcos home by an Army helicopter after the Blanco River flooded. Their son A.J. Cortez, 6,  lies on the couch next to them. RODOLFO GONZALEZ  / AMERICAN-STATESMAN)</p>
+    <p class="caption text-over-media-caption main-text-is-center">Carlos and Candy Cortez comfort each other in the Redbird Aviation Terminal in San Marcos after they, their three children and one of their dogs were rescued from the roof of their San Marcos home by an Army helicopter after the Blanco River flooded. Their son A.J. Cortez, 6,  lies on the couch next to them. RODOLFO GONZALEZ  / AMERICAN-STATESMAN</p>
   
 
-  <img alt="Carlos and Candy Cortez, comfort each other in the Redbird Aviation Terminal in San Marcos after they, their three children and one of their dogs were rescued from the roof of their San Marcos home by an Army helicopter after the Blanco River flooded. Their son A.J. Cortez, 6,  lies on the couch next to them. RODOLFO GONZALEZ  / AMERICAN-STATESMAN)" data-landscape-src="./media/rgz-blanco-river-flood-05-hr.jpg" data-portrait-src="" class="section-background-image text-over-media-background-image retina-only" data-autoscale="cover">
+  <img alt="Carlos and Candy Cortez comfort each other in the Redbird Aviation Terminal in San Marcos after they, their three children and one of their dogs were rescued from the roof of their San Marcos home by an Army helicopter after the Blanco River flooded. Their son A.J. Cortez, 6,  lies on the couch next to them. RODOLFO GONZALEZ  / AMERICAN-STATESMAN)" data-landscape-src="./media/rgz-blanco-river-flood-05-hr.jpg" data-portrait-src="" class="section-background-image text-over-media-background-image retina-only" data-autoscale="cover">
 </div>
 
 <script>

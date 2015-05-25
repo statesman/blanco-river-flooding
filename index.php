@@ -354,7 +354,7 @@ ul li { }
 <div id="title-3341" class="section section-text-over-media section-title section-title-3341" data-viewport-height>
   <div class="text title-inner right bottom">
       <h1 class="story-title text-inner normal">Blanco River runs roughshod</h1>
-      <h2 class="story-heading text-inner normal"><strong>After a foot of rain upstream, a wall of water rushes down the Blanco River into Wimberley, San Marcos and beyond.</strong></h2>
+      <h2 class="story-heading text-inner normal"><strong>After a foot of rain falls upstream, a wall of water rushes down the Blanco River into Wimberley, San Marcos and beyond.</strong></h2>
   </div>
 
   <div class="story-metadata right text">BY BEN WEAR / AMERICAN-STATESMAN<br />May 24, 2015</div>

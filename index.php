@@ -307,7 +307,7 @@ ul li { }
       
         <li>
           <div class="twitter-button">
-            <a class="header-twitter active twitter-share-button" href="https://twitter.com/share" data-url="http://atxne.ws/1HEKApW" data-text="Historic flooding event flattens communities along Blanco River" data-via="statesman" data-counturl="" data-lang="en"></a>
+            <a class="header-twitter active twitter-share-button" href="https://twitter.com/share" data-url="http://atxne.ws/1HEKApW" data-text="Historic flooding event flattens communities along Blanco River" data-via="statesman" data-counturl="http://projects.statesman.com/news/blanco-river-flooding/" data-lang="en"></a>
           </div>
           <script>
             !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
